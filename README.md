@@ -41,7 +41,7 @@ File_3:
 2.	Let X mean the height; Y mean the weight of a randomly chosen man in a country. Assume that the random variable (X,Y) follows the normal distribution with parameters μ1=180, μ2=80, σ1=15, σ2=10 and r=0.6. With the help of a calculator and the table given here
 					
 x	   φ(x)		  x	   φ(x)	
-0	  0,5000		2	  0,9772	
+0	0,5000		2	0,9772	
 0,1	0,5398		2,1	0,9821	
 0,2	0,5793		2,2	0,9861	
 0,3	0,6179		2,3	0,9893	
@@ -51,7 +51,7 @@ x	   φ(x)		  x	   φ(x)
 0,7	0,7580		2,7	0,9965	
 0,8	0,7881		2,8	0,9974	
 0,9	0,8159		2,9	0,9981	
-1	  0,8413		3	  0,9987	
+1	0,8413		3	0,9987	
 1,1	0,8643		3,1	0,9990	
 1,2	0,8849		3,2	0,9993	
 1,3	0,9032		3,3	0,9995	
@@ -61,7 +61,7 @@ x	   φ(x)		  x	   φ(x)
 1,7	0,9554		3,7	0,9999	
 1,8	0,9641		3,8	0,9999	
 1,9	0,9713		3,9	1,0000	
-2	  0,9772		4	  1,0000	
+2	0,9772	        4	1,0000	
 
 Calculate the probabilities:
 
